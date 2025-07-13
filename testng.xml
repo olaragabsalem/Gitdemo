@@ -31,6 +31,11 @@
                     <include name="ola.5*"/>
 
                 </methods>
+<methods>
+                    <include name="ola.6*"/>
+
+                </methods>
+
         </class>
             <class name="test.day2" >
                 <methods>
